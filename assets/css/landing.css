@@ -81,12 +81,21 @@ a.button {
     font-weight: 500;
 }
 
+@media (max-width: 1024px) {
+    .body-wrapper {
+        text-align: center;
+        width: 100%;
+    }
+        .slogan
+    .heading-title{
+        line-height: 1.2em;
+    }
+}
 
 @media (max-width: 767px) {
     .body-wrapper {
         text-align: center;
         width: 100%;
-
     }
 
     #column-2{
