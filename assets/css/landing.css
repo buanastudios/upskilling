@@ -1,0 +1,59 @@
+ .body-wrapper{
+/*    border: 15px solid green;*/
+    padding: 50px;
+    margin: 20px;
+
+    display: flex;
+    min-height: 70vh;
+    flex-direction: row;
+    container-widget-width: calc((1 - 1)* 100%);
+    container-widget-height: 100%;
+    container-widget-flex-grow: 1;
+    container-widget-align-self: stretch;
+    justify-content: center;
+    align-items: center;
+    gap: 0px 0px;
+    background-transition: 0.3s;
+}
+
+
+img{
+    height: auto;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.slogan
+.heading-title{
+    color: #31429B;
+    font-family: "Poppins", Sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    font-style: italic;
+    line-height: 6px;
+}
+
+.hero-desc
+.heading-title{
+    color: #414141;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.button{
+    background-color: #31429B;
+    border-radius: 5px 5px 5px 5px;
+    padding: 18px 18px 18px 18px;
+    color: #fff;
+}
+
+a.button {
+    box-shadow: none;
+    text-decoration: none;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 500;
+}
