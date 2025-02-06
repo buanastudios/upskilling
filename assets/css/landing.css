@@ -1,7 +1,11 @@
+*{
+        box-sizing: border-box;
+}
  .body-wrapper{
 /*    border: 15px solid green;*/
     padding: 50px;
     margin: 20px;
+    box-sizing: border-box;
 
     display: flex;
     min-height: 70vh;
@@ -26,6 +30,7 @@ img{
     overflow-clip-margin: content-box;
     overflow: clip;
 }
+
 .slogan
 .heading-title{
     color: #31429B;
@@ -56,4 +61,11 @@ a.button {
     text-decoration: none;
     font-family: "Roboto", Sans-serif;
     font-weight: 500;
+}
+
+
+@media (max-width: 767px) {
+    .elementor-714 .elementor-element.elementor-element-39732d4 {
+        text-align: center;
+    }
 }
