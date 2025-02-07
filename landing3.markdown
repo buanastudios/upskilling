@@ -147,7 +147,21 @@ karir profesional yang berkelanjutan</p>
 <section id="section-6">
 	<div class="container">
 		<h2 class="heading-title size-default"><span style="color: #31429B">Sesi Belajar yang </span><span style="color: red ">Mudah Diikuti</span></h2>
-		<iframe class="video" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="M1E1 - Pengantar Komunikasi Efektif" width="640" height="360" src="https://www.youtube.com/embed/ZwWUUZBlxeI?autoplay=1&loop=1&controls=0" id="widget2"></iframe>
+		<iframe class="video" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="M1E1 - Pengantar Komunikasi Efektif" width="640" height="360" src="https://www.youtube.com/embed/ZwWUUZBlxeI?autoplay=1&loop=1&controls=0" id="widget2"></iframe>
+	</div>
+</section>
+
+<div class="divider">
+	<span class="divider-separator"></span>
+</div>
+
+<!-- Section 7: Explore Classes -->
+<section id="section-7">
+	<div class="container">
+		<h2 class="heading-title size-default"><span style="color: #31429B">Explore </span><span style="color: red ">Our Classes</span></h2>
+		<div class="container">
+
+		</div>
 	</div>
 </section>
 

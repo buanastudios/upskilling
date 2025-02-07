@@ -308,6 +308,31 @@ a.button {
     padding-inline-start: 5px;
 }
 
+#section-6 {
+    width: 100vw;
+    height: 100vh;
+}
+
+#section-6 > .container {
+    display: flex;
+    flex-direction: column;
+    column-gap: 30px;
+    row-gap: 30px;
+    align-items: center;
+    justify-items: center;
+}
+
+#section-6 > .container > .heading-title{
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+}
+
+#section-6 > .container > iframe{
+    width: 100vw;
+    height: 100vh;
+}
+
 @media (max-width: 1024px) {
     .body-wrapper{
         padding-inline-start:40px;
@@ -359,7 +384,6 @@ a.button {
         max-width: 70%;
     }
 
-    
 }
 
 @media (max-width: 767px){
@@ -440,4 +464,10 @@ a.button {
 /*        padding:20px;*/
         flex-wrap: wrap;
     }
+
+    #section-6 > .container > iframe{
+        width: 400px;
+        height: 200px;
+    }
+
 }
