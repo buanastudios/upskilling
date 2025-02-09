@@ -18,7 +18,7 @@ karir profesional yang berkelanjutan</p>
 		</div>
 	</div>
 	<div class="container hidden-tablet">
-		<img decoding="async" width="1024" height="704" data-src="./assets/images/logo-upskilling-1-1024x704.png" src="./assets/images/logo-upskilling-1-1024x704.png">
+		<img id="person-presenting-hand" class="lazyloaded" decoding="async" width="1024" height="704" data-src="./assets/images/logo-upskilling-1-1024x704.png" src="./assets/images/logo-upskilling-1-1024x704.png">
 		<noscript><img decoding="async" width="1024" height="704" src="./assets/images/logo-upskilling-1-1024x704.png"/></noscript> 
 	</div>
 </section>
@@ -100,12 +100,12 @@ karir profesional yang berkelanjutan</p>
 		<div class="container">
 			<img decoding="async" data-src="./assets/images/rocket-1.png" src="./assets/images/rocket-1.png" />
 			<div class="container">
-				<h2 class="heading-title size-default"><span style="color: red">Why</span> <span style="color: #31429B;">Upskilling?</span></h2>
+				<h2 class="heading-title size-default"><span style="color: red">Kenapa</span> <span style="color: #31429B;">Upskilling?</span></h2>
 				<ul class="icon-list-items">
 								<li class="icon-list-item">
 												<span class="icon-list-icon">
 								<svg aria-hidden="true" class="e-font-icon-svg e-fas-check-square" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M400 480H48c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h352c26.51 0 48 21.49 48 48v352c0 26.51-21.49 48-48 48zm-204.686-98.059l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.248-16.379-6.249-22.628 0L184 302.745l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.25 16.379 6.25 22.628.001z"></path></svg>						</span>
-											<span class="icon-list-text"><b style="color: #31429a">Flexible</b>. Jadwal belajar yang dapat disesuaikan dengan kesibukanmu.</span>
+											<span class="icon-list-text"><b style="color: #31429a">Fleksibel</b>. Jadwal belajar yang dapat disesuaikan dengan kesibukanmu.</span>
 										</li>
 									<li class="icon-list-item">
 												<span class="icon-list-icon">
@@ -135,7 +135,7 @@ karir profesional yang berkelanjutan</p>
 							</ul>
 			</div>
 		</div>
-		<p class="heading-title size-default">Kamu bisa jelajahi manfaatnya secara langsung dan rasakan sendiri perbedaannya</p>
+		<p class="heading-title size-default">Langsung jelajahi manfaatnya dan rasakan sendiri perbedaannya</p>
 	</div>
 </section>
 
@@ -147,7 +147,14 @@ karir profesional yang berkelanjutan</p>
 <section id="section-6">
 	<div class="container">
 		<h2 class="heading-title size-default"><span style="color: #31429B">Sesi Belajar yang </span><span style="color: red ">Mudah Diikuti</span></h2>
-		<iframe class="video" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="M1E1 - Pengantar Komunikasi Efektif" width="640" height="360" src="https://www.youtube.com/embed/ZwWUUZBlxeI?autoplay=1&loop=1&controls=0" id="widget2"></iframe>
+		<iframe
+			class="video"
+			frameborder="0"
+			allowfullscreen="1"
+			allow="autoplay"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Pengantar Komunikasi Efektif" width="640" height="360"
+			src="https://www.youtube.com/embed/ZwWUUZBlxeI?autoplay=1&loop=1&controls=0&modestbranding=1&showsearch=0&enablejsapi=1&disablekb=1&fs=1&rel=0&showinfo=0&playsinline=0&mode=opaque&wmode=transparent&iv_load_policy=3&mute=1"
+			id="ytplayer"></iframe>
 	</div>
 </section>
 
@@ -158,9 +165,61 @@ karir profesional yang berkelanjutan</p>
 <!-- Section 7: Explore Classes -->
 <section id="section-7">
 	<div class="container">
-		<h2 class="heading-title size-default"><span style="color: #31429B">Explore </span><span style="color: red ">Our Classes</span></h2>
+		<h2 class="heading-title size-default"><span style="color: #31429B">Jelajahi </span><span style="color: red ">Kelas-Kelas Kami</span></h2>
+		<p class="heading-title size-default">Dirancang secara komprehensif untuk menyesuaikan kebutuhanmu</p>
 		<div class="container">
-
+			<div class="accordion">
+				<div class="accordion-item">
+					<div id="tab-title-1761" class="tab-title active" data-tab="1" role="button" aria-controls="tab-content-1761" aria-expanded="true" tabindex="0" aria-selected="true">
+						<span class="accordion-icon accordion-icon-left" aria-hidden="true">
+							<span class="accordion-icon-closed"><svg class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span>
+							<span class="accordion-icon-opened"><svg class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></span>
+						</span>
+						<a class="accordion-title" tabindex="0"><span style="color: #ec2224">Materi 1:</span><span style="color: #31429a"> How To Be A Great Communicator</span></a>
+					</div>
+					<div id="tab-content-1761" class="tab-content clearfix active" data-tab="1" role="region" aria-labelledby="tab-title-1761" style="display: block;"><ul><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pengantar Komunikasi Efektif</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Indikator &amp; Cara Berkomunikasi Efektif</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Kedalaman Pesan</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Prinsip Dasar Komunikasi Efektif</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Komunikasi Organisasi</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Fundamental Komunikasi Efektif</span></li></ul></div>
+				</div>
+							<div class="accordion-item">
+					<div id="tab-title-1762" class="tab-title" data-tab="2" role="button" aria-controls="tab-content-1762" aria-expanded="false">
+													<span class="accordion-icon accordion-icon-left" aria-hidden="true">
+															<span class="accordion-icon-closed"><svg class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span>
+								<span class="accordion-icon-opened"><svg class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></span>
+														</span>
+												<a class="accordion-title" tabindex="0"><span style="color: #ec2224">Materi 2:</span><span style="color: #31429a"> Manager as Coach</span></a>
+					</div>
+					<div id="tab-content-1762" class="tab-content clearfix" data-tab="2" role="region" aria-labelledby="tab-title-1762"><ul><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Apa Itu Coaching?</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Perbedaan Coaching dengan Metode Lain</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Urgensi Manajer Sebagai Coach</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Langkah dalam Proses Coaching</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Keterampilan Coaching yang Harus Dimiliki&nbsp;</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Tujuan Akhir Coaching</span></li></ul></div>
+				</div>
+							<div class="accordion-item">
+					<div id="tab-title-1763" class="tab-title" data-tab="3" role="button" aria-controls="tab-content-1763" aria-expanded="false">
+													<span class="accordion-icon accordion-icon-left" aria-hidden="true">
+															<span class="accordion-icon-closed"><svg class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span>
+								<span class="accordion-icon-opened"><svg class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></span>
+														</span>
+												<a class="accordion-title" tabindex="0"><span style="color: #ec2224">Materi 3:</span><span style="color: #31429a"> Change Management</span></a>
+					</div>
+					<div id="tab-content-1763" class="tab-content clearfix" data-tab="3" role="region" aria-labelledby="tab-title-1763"><ul><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pengantar Change Management</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Studi Kasus Change Management</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">8 Langkah Proses Change Management</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">4 Fase Transisi Perubahan</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Langkah Kecil, Dampak Besar</span></li></ul></div>
+				</div>
+							<div class="accordion-item">
+					<div id="tab-title-1764" class="tab-title" data-tab="4" role="button" aria-controls="tab-content-1764" aria-expanded="false">
+													<span class="accordion-icon accordion-icon-left" aria-hidden="true">
+															<span class="accordion-icon-closed"><svg class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span>
+								<span class="accordion-icon-opened"><svg class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></span>
+														</span>
+												<a class="accordion-title" tabindex="0"><span style="color: #ec2224">Materi 4:</span><span style="color: #31429a"> Kepemimpinan 360°</span></a>
+					</div>
+					<div id="tab-content-1764" class="tab-content clearfix" data-tab="4" role="region" aria-labelledby="tab-title-1764"><ul><li><span style="font-weight: 400;">Pengantar Kepemimpinan 360°</span></li><li><span style="font-weight: 400;">Mitos dalam Kepemimpinan</span></li><li><span style="font-weight: 400;">Prinsip Memimpin Ke Atas</span></li><li><span style="font-weight: 400;">Prinsip Memimpin Ke Samping</span></li><li><span style="font-weight: 400;">Prinsip Memimpin Ke Bawah</span></li><li><span style="font-weight: 400;">Intisari Kepemimpinan 360°</span></li></ul></div>
+				</div>
+							<div class="accordion-item">
+					<div id="tab-title-1765" class="tab-title" data-tab="5" role="button" aria-controls="tab-content-1765" aria-expanded="false">
+													<span class="accordion-icon accordion-icon-left" aria-hidden="true">
+															<span class="accordion-icon-closed"><svg class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span>
+								<span class="accordion-icon-opened"><svg class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></span>
+														</span>
+												<a class="accordion-title" tabindex="0"><span style="color: #ec2224">Materi 5:</span><span style="color: #31429a"> Strategic Thinking</span></a>
+					</div>
+					<div id="tab-content-1765" class="tab-content clearfix" data-tab="5" role="region" aria-labelledby="tab-title-1765"><ul><li><span style="font-weight: 400;">Pengantar Materi</span></li><li><span style="font-weight: 400;">Definisi &amp; Studi Kasus Strategic Thinking</span></li><li><span style="font-weight: 400;">4 Elemen Tujuan Strategic Thinking</span></li><li><span style="font-weight: 400;">Antara Eksploitasi &amp; Eksplorasi</span></li></ul></div>
+				</div>
+								</div>
 		</div>
 	</div>
 </section>
