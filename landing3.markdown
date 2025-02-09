@@ -72,7 +72,7 @@ karir profesional yang berkelanjutan</p>
 	<div class="container">
 		<h2 class="heading-title size-default">Inilah Saat Yang Tepat <span style="color: red">Untuk Mengenal</span></h2>
 		<img decoding="async" width="768" height="768" data-src="./assets/images/logo-upskilling-1024x252.png" src="./assets/images/logo-upskilling-1024x252.png" />
-		<h4 class="heading-title size-default">Platform Pembelajaran DIgital untuk Pengembangan <br>Karir Profesional yang Berkelanjutan</h4>
+		<h4 class="heading-title size-default">Platform Pembelajaran Digital untuk Pengembangan <br>Karir Profesional yang Berkelanjutan</h4>
 	</div>
 </section>
 
@@ -146,7 +146,8 @@ karir profesional yang berkelanjutan</p>
 <!-- Section 6: Video -->
 <section id="section-6">
 	<div class="container">
-		<h2 class="heading-title size-default"><span style="color: #31429B">Sesi Belajar yang </span><span style="color: red ">Mudah Diikuti</span></h2>
+		<h2 class="heading-title size-default"><span style="color: #31429B">Sesi Belajar Yang </span><span style="color: red ">Mudah Diikuti</span></h2>
+		<p class="heading-title size-default">Nikmati pengalaman belajar dengan materi yang jelas dan menarik, membuatmu ingin terus menonton</p>
 		<iframe
 			class="video"
 			frameborder="0"
@@ -227,9 +228,325 @@ karir profesional yang berkelanjutan</p>
 	</div>
 </section>
 
+<!-- <div class="divider">
+	<span class="divider-separator"></span>
+</div> -->
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+
+<section id="section-8">
+	<div class="container">
+		<h2 class="heading-title size-default"><span style="color: #31429B">Learn From The</span> <span style="color: red">BEST</span></h2>
+		<p class="heading-title size-default">Pelajari strategi sukses langsung dari para pakar terkemuka di industri</p>
+		<div class="spacer"></div>
+		<div class="spacer"></div>
+		<div class="container cards">
+			<div id="card-1" class="container card">
+				<figure class="image-box-img">
+					<img loading="lazy" decoding="async" width="1080" height="1080" data-src="./assets/images/1.png" class="attachment-full size-full wp-image-522 lazyloaded" alt="" data-srcset="./assets/images/1.png 1080w, ./assets/images/1-300x300.png 300w, ./assets/images/1-1024x1024.png 1024w, ./assets/images/1-150x150.png 150w, ./assets/images/1-768x768.png 768w" data-sizes="(max-width: 1080px) 100vw, 1080px" src="./assets/images/1.png" style="--smush-placeholder-width: 1080px; --smush-placeholder-aspect-ratio: 1080/1080;" sizes="(max-width: 1080px) 100vw, 1080px" srcset="./assets/images/1.png 1080w, ./assets/images/1-300x300.png 300w, ./assets/images/1-1024x1024.png 1024w, ./assets/images/1-150x150.png 150w, ./assets/images/1-768x768.png 768w">
+					<noscript>
+						<img loading="lazy" decoding="async" width="1080" height="1080" src="./assets/images/1.png" class="attachment-full size-full wp-image-522" alt="" srcset="./assets/images/1.png 1080w, ./assets/images/1-300x300.png 300w, ./assets/images/1-1024x1024.png 1024w, ./assets/images/1-150x150.png 150w, ./assets/images/1-768x768.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+					</noscript>
+				</figure>
+				<div class="image-box-content">
+					<h4 class="image-box-title">Gun Gun Saptari Hidayat, S.T.,M.B.A</h4>
+					<div class="image-box-description">
+						<p>• Senior Trainer TRUSTCO</p>
+						<p>• CEO dan Direktur di beberapa perusahaan</p>
+						<p>• Practitioner Neuro Linguistic Programming</p>
+					</div>
+				</div>
+			</div>
+			<div id="card-2" class="container card">
+				<figure class="image-box-img">
+					<img loading="lazy" decoding="async" width="1080" height="1080" data-src="./assets/images/2.png" class="attachment-full size-full wp-image-522 lazyloaded" alt="" data-srcset="./assets/images/2.png 1080w, ./assets/images/2-300x300.png 300w, ./assets/images/2-1024x1024.png 1024w, ./assets/images/2-150x150.png 150w, ./assets/images/2-768x768.png 768w" data-sizes="(max-width: 1080px) 100vw, 1080px" src="./assets/images/2.png" style="--smush-placeholder-width: 1080px; --smush-placeholder-aspect-ratio: 1080/1080;" sizes="(max-width: 1080px) 100vw, 1080px" srcset="./assets/images/2.png 1080w, ./assets/images/2-300x300.png 300w, ./assets/images/2-1024x1024.png 1024w, ./assets/images/2-150x150.png 150w, ./assets/images/1-768x768.png 768w">
+					<noscript>
+						<img loading="lazy" decoding="async" width="1080" height="1080" src="./assets/images/2.png" class="attachment-full size-full wp-image-522" alt="" srcset="./assets/images/2.png 1080w, ./assets/images/2-300x300.png 300w, ./assets/images/2-1024x1024.png 1024w, ./assets/images/2-150x150.png 150w, ./assets/images/2-768x768.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+					</noscript>
+				</figure>
+				<div class="image-box-content">
+					<h4 class="image-box-title">Gun Gun Saptari Hidayat, S.T.,M.B.A</h4>
+					<div class="image-box-description">
+						<p>• Senior Trainer TRUSTCO</p>
+						<p>• CEO dan Direktur di beberapa perusahaan</p>
+						<p>• Practitioner Neuro Linguistic Programming</p>
+					</div>
+				</div>
+			</div>
+			<div id="card-3" class="container card">
+				<figure class="image-box-img">
+					<img loading="lazy" decoding="async" width="1080" height="1080" data-src="./assets/images/1.png" class="attachment-full size-full wp-image-522 lazyloaded" alt="" data-srcset="./assets/images/1.png 1080w, ./assets/images/3-300x300.png 300w, ./assets/images/3-1024x1024.png 1024w, ./assets/images/3-150x150.png 150w, ./assets/images/3-768x768.png 768w" data-sizes="(max-width: 1080px) 100vw, 1080px" src="./assets/images/3.png" style="--smush-placeholder-width: 1080px; --smush-placeholder-aspect-ratio: 1080/1080;" sizes="(max-width: 1080px) 100vw, 1080px" srcset="./assets/images/3.png 1080w, ./assets/images/3-300x300.png 300w, ./assets/images/3-1024x1024.png 1024w, ./assets/images/3-150x150.png 150w, ./assets/images/3-768x768.png 768w">
+					<noscript>
+						<img loading="lazy" decoding="async" width="1080" height="1080" src="./assets/images/1.png" class="attachment-full size-full wp-image-522" alt="" srcset="./assets/images/1.png 1080w, ./assets/images/1-300x300.png 300w, ./assets/images/1-1024x1024.png 1024w, ./assets/images/1-150x150.png 150w, ./assets/images/1-768x768.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+					</noscript>
+				</figure>
+				<div class="image-box-content">
+					<h4 class="image-box-title">Gun Gun Saptari Hidayat, S.T.,M.B.A</h4>
+					<div class="image-box-description">
+						<p>• Senior Trainer TRUSTCO</p>
+							<p>• CEO dan Direktur di beberapa perusahaan</p>
+							<p>• Practitioner Neuro Linguistic Programming</p>
+						</div>
+				</div>
+			</div>
+			<div id="card-4" class="container card">
+				<figure class="image-box-img">
+					<img loading="lazy" decoding="async" width="1080" height="1080" data-src="./assets/images/4.png" class="attachment-full size-full wp-image-522 lazyloaded" alt="" data-srcset="./assets/images/4.png 1080w, ./assets/images/4-300x300.png 300w, ./assets/images/2-1024x1024.png 1024w, ./assets/images/4-150x150.png 150w, ./assets/images/2-768x768.png 768w" data-sizes="(max-width: 1080px) 100vw, 1080px" src="./assets/images/4.png" style="--smush-placeholder-width: 1080px; --smush-placeholder-aspect-ratio: 1080/1080;" sizes="(max-width: 1080px) 100vw, 1080px" srcset="./assets/images/4.png 1080w, ./assets/images/2-300x300.png 300w, ./assets/images/4-1024x1024.png 1024w, ./assets/images/4-150x150.png 150w, ./assets/images/4-768x768.png 768w">
+					<noscript>
+						<img loading="lazy" decoding="async" width="1080" height="1080" src="./assets/images/4.png" class="attachment-full size-full wp-image-522" alt="" srcset="./assets/images/4.png 1080w, ./assets/images/4-300x300.png 300w, ./assets/images/2-1024x1024.png 1024w, ./assets/images/4-150x150.png 150w, ./assets/images/4-768x768.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+					</noscript>
+				</figure>
+				<div class="image-box-content">
+					<h4 class="image-box-title">Gun Gun Saptari Hidayat, S.T.,M.B.A</h4>
+						<div class="image-box-description">
+							<p>• Senior Trainer TRUSTCO</p>
+							<p>• CEO dan Direktur di beberapa perusahaan</p>
+							<p>• Practitioner Neuro Linguistic Programming</p>
+						</div>					
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+
+<!-- <div class="divider">
+	<span class="divider-separator"> </span>
+</div> -->
+
+<section id="section-9">
+	<div class="container">
+		<div class="spacer"></div>
+		<h2 class="heading-title size-default">Apa Pendapat Anggota2 Kami</h2>
+		<div class="spacer"></div>
+		<div class="container slidebox">
+			<div class="boxes">
+				<div id="box-1" class="box">
+					<h3 class="slide-title">Muhammad</h3>
+					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
+					<div class="slide-rating">
+						<span class="rating rating-5-0">
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                </span>
+					</div>
+					<div class="slide-review">
+						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
+					</div>
+				</div>				
+				<div id="box-2" class="box">
+					<h3 class="slide-title">Muas</h3>
+					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
+					<div class="slide-rating">
+						<span class="rating rating-5-0">
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                </span>
+					</div>
+					<div class="slide-review">
+						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
+					</div>
+				</div>				
+				<div id="box-3" class="box">
+					<h3 class="slide-title">Fuadillah</h3>
+					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
+					<div class="slide-rating">
+						<span class="rating rating-5-0">
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                </span>
+					</div>
+					<div class="slide-review">
+						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
+					</div>
+				</div>
+				<div id="box-4" class="box">
+					<h3 class="slide-title">Muhammad Muas</h3>
+					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
+					<div class="slide-rating">
+						<span class="rating rating-5-0">
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                </span>
+					</div>
+					<div class="slide-review">
+						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
+					</div>
+				</div>				<div id="box-5" class="box">
+					<h3 class="slide-title">Muhammad</h3>
+					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
+					<div class="slide-rating">
+						<span class="rating rating-5-0">
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                </span>
+					</div>
+					<div class="slide-review">
+						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
+					</div>
+				</div>				
+				<div id="box-6" class="box">
+					<h3 class="slide-title">Muas</h3>
+					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
+					<div class="slide-rating">
+						<span class="rating rating-5-0">
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                </span>
+					</div>
+					<div class="slide-review">
+						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
+					</div>
+				</div>				
+				<div id="box-7" class="box">
+					<h3 class="slide-title">Fuadillah</h3>
+					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
+					<div class="slide-rating">
+						<span class="rating rating-5-0">
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                </span>
+					</div>
+					<div class="slide-review">
+						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
+					</div>
+				</div>
+				<div id="box-8" class="box">
+					<h3 class="slide-title">Muhammad Muas</h3>
+					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
+					<div class="slide-rating">
+						<span class="rating rating-5-0">
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
+		                </span>
+					</div>
+					<div class="slide-review">
+						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+
 <div class="divider">
 	<span class="divider-separator"> </span>
 </div>
+<!-- SECTION 10: BENEFIT -->
+<section id="section-10">
+	<div class="container">
+		<h2 class="heading-title size-default"><span style="color: #31429B">Yang Anda </span><span style="color:red">Dapatkan</span></h2>
+		<div class="container">
+			<ul class="icon-list-items">
+					<li class="icon-list-item">
+									<span class="icon-list-icon">
+					<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
+								<span class="icon-list-text"><b style="color: #31429a"> 30+ </b> Video Pembelajaran <b style="color: #31429a">Rp6.500.000</b></span>
+							</li>
+						<li class="icon-list-item">
+									<span class="icon-list-icon">
+					<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
+								<span class="icon-list-text"><b style="color: #31429a">5</b> Modul Presentasi <b style="color: #31429a">Rp1.250.000</b></span>
+							</li>
+						<li class="icon-list-item">
+									<span class="icon-list-icon">
+					<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
+								<span class="icon-list-text"><b style="color: #31429a">Grup</b> Ekslusif <b style="color: #31429a">Rp 300.000</b></span>
+							</li>
+						<li class="icon-list-item">
+									<span class="icon-list-icon">
+					<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
+								<span class="icon-list-text"><b style="color: #31429a">Webinar</b> Ekslusif untuk Member <b style="color: #31429a">Rp 2.000.000</b></span>
+							</li>
+						<li class="icon-list-item">
+									<span class="icon-list-icon">
+					<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
+								<span class="icon-list-text"><b style="color: #31429a">E-Book</b>. SMILE <b style="color: #31429a">Rp 50.000</b></span>
+							</li>
+						<li class="icon-list-item">
+									<span class="icon-list-icon">
+					<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
+								<span class="icon-list-text"><b style="color: #31429a">E-Certificate</b> Penunjang Karir <b style="color: #31429a">Rp 100.000</b></span>
+							</li>
+						<li class="icon-list-item">
+									<span class="icon-list-icon">
+					<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
+								<span class="icon-list-text"><b style="color: #31429a">Tools</b> Leadership <b style="color: #31429a">Rp 100.000</b></span>
+							</li>
+						<li class="icon-list-item">
+									<span class="icon-list-icon">
+					<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
+								<span class="icon-list-text"><b style="color: #31429a">Tools</b> Karakter Tim (DISC) <b style="color: #31429a">Rp 100.000</b></span>
+							</li>
+						<li class="icon-list-item">
+									<span class="icon-list-icon">
+					<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
+								<span class="icon-list-text"><b style="color: #31429a">Tools</b> Tipe Motivasi <b style="color: #31429a">Rp 100.000</b></span>
+							</li>
+				</ul>
+		</div>
+		<div class="container">
+			<h3 class="heading-title size-default"><span style="color: #31429B">Total </span> <span style="color: red">Value</span></h3>
+			<h4 class="heading-title size-default"><span style="color:  #31429B; text-decoration: line-through;">Rp 10.500.000</span></h4>
+			<h4 class="heading-title size-default">Dapatkan semuanya dengan hanya</h4>
+			<h2 class="heading-title size-default"><span style="color: red">Rp 145.000</span></h2>
+			<p class="heading-title size-default"><span style="color: red">*Harga bisa naik sewaktu-waktu tanpa pemberitahuan</span></p>
+		</div>
+	</div>
+</section>
+
+<div class="spacer"></div>
+<div class="spacer"></div>
+
+<section id="section-11">
+	<div class="container">
+		<img class="lazyloaded" src="./assets/images/e-book.png" loading="lazy" decoding="async" width="1024" height="1024"/>
+		<div class="container">
+			<h2 class="heading-title size-default"><span style="color: #31429B;">Ready to Take the</span> <span style="color: red">Next Step?</span></h2>
+			<p class="heading-title size-default">Mulai perjalananmu dan dapatkan kunci menuju potensi tak terbatas!</p>
+		</div>
+	</div>
+</section>
+
+<div class="spacer"></div>
+<div class="spacer"></div>
+
 
 <!-- Section 12: FAQ -->
 <!-- <section id="section-12">
@@ -260,30 +577,15 @@ karir profesional yang berkelanjutan</p>
 			<div class="accordion-item"></div>
 		</div>
 	</div>
-</section>
- -->
-<div class="divider">
-	<span class="divider-separator"></span>
-</div>
+</section> -->
 
-<section id="section-7">
-	<div class="container"></div>
+<section id="section-13">
+	<div class="container">
+		<p class="heading-title size-default">© 2025 upskillingbytrustco.id</p>
+		<p class="heading-title size-default">Rebuild by http://buana.studio</p>
+	</div>
 </section>
-<section id="section-8">
-	<div class="container"></div>
-</section>
-<section id="section-9">
-	<div class="container"></div>
-</section>
-<section id="section-10">
-	<div class="container"></div>
-</section>
-<section id="section-11">
-	<div class="container"></div>
-</section>
-<section id="section-12">
-	<div class="container"></div>
-</section>
+
 
 <script>
 	// Accordion.
