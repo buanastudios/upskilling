@@ -32,6 +32,13 @@ body{
     margin:0 auto;
 }
 
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+    width: 0;
+    height: 0;
+}
 
 img{
     height: auto;
@@ -126,6 +133,7 @@ a.button {
 .heading-title{
     font-family: "Poppins", Sans-serif;
     text-align: center;
+    font-weight: 800;
 }
 
 #headline {
@@ -356,6 +364,10 @@ a.button {
     row-gap: 30px;
     align-items: center;
     justify-items: center;
+    max-width: 80vw;
+    max-height: 80vh;
+    width: 100%;
+    height: 100%;
 }
 
 #section-6 > .container > .heading-title{
@@ -365,37 +377,165 @@ a.button {
 }
 
 #section-6 > .container > #ytplayer{
-    width: 80vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     pointer-events: none; /*auto;*/
     user-select: none;
+    display: flex;
+    border:none;
+    background-color: #000;
 }
 
 #section-7,
 #section-7 > .container{
     flex-direction: column;
     width: 100%;
-    height: 100vh;
+/*    max-height: 100vh;*/
+    height: 100%;
 }
 
+#section-7 > .container > p{
+    color: #414141;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+    line-height: 24px;
+    word-spacing: 2px;
+}
 .container:has(.accordion){
     display: flex;
 }
+
+
+/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-left{float:left;text-align:left}
+.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed{display:block}
+.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-opened,.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-closed{display:none}
+.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{display:block}.elementor-accordion .elementor-tab-content{display:none;padding:15px 20px;border-top:1px solid #d5d8dc}@media (max-width:767px){.elementor-accordion .elementor-tab-title{padding:12px 15px}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{width:1.2em}.elementor-accordion .elementor-tab-content{padding:7px 15px}}.e-con-inner>.elementor-widget-accordion,.e-con>.elementor-widget-accordion{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}
 
 .accordion{
     text-align: start;
 }
 
-    .accordion-item{
+        .accordion {
+            width: 100%;
+            max-width: 80vw;
+            margin: auto;
+        }
 
-        display: flex;
-        font-size: inherit;
-        align-items: center;
-        margin: 0;
-        padding: 0;
-        position: relative;
-    }
+        .accordion-item {
+            border-bottom: 1px solid #d5d8dc;
+            border-width: 2px;
+            border-color: #F4F4F4;
+            border: 1px solid #d5d8dc;
+        }
 
+        .accordion-item+.accordion-item{
+            border-top:none
+        }
+
+        .accordion-icon.accordion-icon-right{
+            float:right;
+            text-align:right
+        }
+        
+        .accordion-item .tab-content {
+            border-width: 2px;
+            border-top-color: #F4F4F4;
+        }
+
+        .accordion-title{
+            font-family: "Poppins", Sans-serif;
+            font-size: 19px;
+            font-weight: 600;
+        }
+
+        .accordion .tab-content {
+            background-color: #FFFFFF;
+            color: #414141;
+            font-family: "Poppins", Sans-serif;
+            font-weight: 400;
+            line-height: 33px;
+        }
+
+        .accordion .tab-content {
+            display: none;
+            padding: 15px 20px;
+            padding-left: 5em;
+            border-top: 1px solid #d5d8dc;
+        }
+
+
+        /* Hide default checkbox */
+        .accordion-item input {
+            display: none;
+        }
+
+        .accordion .tab-title {
+
+            margin: 0;
+            padding: 15px 20px;
+            font-weight: 700;
+            line-height: 1;
+            cursor: pointer;
+            outline: none;
+
+
+/*            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px;
+            background: #f4f4f4;
+            cursor: pointer;
+            font-weight: bold;*/
+        }
+
+        .accordion .tab-title .accordion-icon {
+            display: inline-block;
+            width: 1.5em;
+            transition: transform 0.3s ease;    
+        }
+
+        .accordion-icon svg{
+            width:1em;
+            height:1em
+        }
+
+        .accordion-icon.accordion-icon-left {
+            float: left;
+            text-align: left;
+            margin-right:10px;
+        }
+
+        .accordion-icon .accordion-icon-closed {
+            display: block;
+        }
+
+        .accordion-icon .accordion-icon-opened {
+            display: none;
+        }
+        
+        /* Hide content by default */
+        .tab-content {
+/*            max-height: 0;*/
+/*            overflow: hidden;*/
+/*            transition: max-height 0.3s ease-in-out;*/
+/*            background: #fff;*/
+/*            padding: 0 15px;*/
+        }
+
+        /* When checked, show content */
+        .accordion-item input:checked + .tab-title + .tab-content {
+/*            max-height: 300px; /* Adjust as needed */*/
+/*            padding: 15px;*/
+        }
+
+        /* Rotate icon when opened */
+        .accordion-item input:checked + .tab-title .accordion-icon {
+            transform: rotate(180deg);
+        }
+
+/*      
+*/
 /*    .icon-list-item > .icon-list-text{
         font-family: "Poppins", Sans-serif;
         font-size: 18px;

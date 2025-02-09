@@ -152,7 +152,7 @@ karir profesional yang berkelanjutan</p>
 			frameborder="0"
 			allowfullscreen="1"
 			allow="autoplay"
-			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Pengantar Komunikasi Efektif" width="640" height="360"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" title="Pengantar Komunikasi Efektif" width="640" height="360"
 			src="https://www.youtube.com/embed/ZwWUUZBlxeI?autoplay=1&loop=1&controls=0&modestbranding=1&showsearch=0&enablejsapi=1&disablekb=1&fs=1&rel=0&showinfo=0&playsinline=0&mode=opaque&wmode=transparent&iv_load_policy=3&mute=1"
 		 	id="ytplayer"></iframe>
 		
@@ -168,6 +168,8 @@ karir profesional yang berkelanjutan</p>
 	<div class="container">
 		<h2 class="heading-title size-default"><span style="color: #31429B">Jelajahi </span><span style="color: red ">Kelas-Kelas Kami</span></h2>
 		<p class="heading-title size-default">Dirancang secara komprehensif untuk menyesuaikan kebutuhanmu</p>
+		<div class="spacer"></div>
+		<div class="spacer"></div>
 		<div class="container">
 			<div class="accordion">
 				<div class="accordion-item">
@@ -282,3 +284,61 @@ karir profesional yang berkelanjutan</p>
 <section id="section-12">
 	<div class="container"></div>
 </section>
+
+<script>
+	// Accordion.
+	// document.addEventListener("DOMContentLoaded", function () {
+	    const accordionItems = document.querySelectorAll(".accordion-item");
+	    console.log(accordionItems);
+
+	    accordionItems.forEach(item => {
+	        const tabTitle = item.querySelector(".tab-title");
+	        const content = item.querySelector(".tab-content");
+	        
+	        tabTitle.addEventListener("click", function () {
+	            const isActive = tabTitle.classList.contains("active");
+	            
+	            // Close all accordions
+	            accordionItems.forEach(accItem => {
+	                accItem.querySelector(".tab-title").classList.remove("active");
+	                accItem.querySelector(".tab-title").setAttribute("aria-expanded", "false");
+	                accItem.querySelector(".tab-content").style.display = "none";
+	            });
+	            
+	            // Toggle the clicked accordion
+	            if (!isActive) {
+	                tabTitle.classList.add("active");
+	                tabTitle.setAttribute("aria-expanded", "true");
+	                content.style.display = "block";
+	            }
+	        });
+	    });
+	// });
+
+</script>
+<script>
+	// For autoplay and turn sound on the Intro Video.
+    function unmuteVideo() {
+        var player = new YT.Player('ytplayer', {
+            events: {
+                'onReady': function(event) {
+                    // event.target.unMute(); // Unmute video when ready
+                }
+            }
+        });
+    }
+
+    document.addEventListener("click", function () {
+        unmuteVideo();
+    });
+
+        // Observer to check when video enters viewport
+    let observer = new IntersectionObserver(unmuteVideo, { threshold: 0.0 });
+    observer.observe(document.getElementById('ytplayer'));
+
+    // Load YouTube API
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+</script>
