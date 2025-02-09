@@ -323,12 +323,15 @@ karir profesional yang berkelanjutan</p>
 <section id="section-9">
 	<div class="container">
 		<div class="spacer"></div>
-		<h2 class="heading-title size-default">Apa Pendapat Anggota2 Kami</h2>
+		<div class="container">
+			<h2 class="heading-title size-default">Apa Pendapat Anggota2 Kami</h2>
+		</div>
 		<div class="spacer"></div>
 		<div class="container slidebox">
 			<div class="boxes">
 				<div id="box-1" class="box">
 					<h3 class="slide-title">Muhammad</h3>
+				lass="slide-title">Muhammad</h3>
 					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
 					<div class="slide-rating">
 						<span class="rating rating-5-0">
