@@ -163,7 +163,7 @@ karir profesional yang berkelanjutan</p>
 </div>
 
 <!-- Section 7: Explore Classes -->
-<section id="section-7">
+<!-- <section id="section-7">
 	<div class="container">
 		<h2 class="heading-title size-default"><span style="color: #31429B">Jelajahi </span><span style="color: red ">Kelas-Kelas Kami</span></h2>
 		<p class="heading-title size-default">Dirancang secara komprehensif untuk menyesuaikan kebutuhanmu</p>
@@ -222,7 +222,7 @@ karir profesional yang berkelanjutan</p>
 								</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <div class="divider">
 	<span class="divider-separator"></span>
