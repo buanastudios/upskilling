@@ -137,7 +137,17 @@
         <div class="signpost">
             <a href="http://buana.studio">Return Home</a>
             <a href="http://t.me/thesaktibuana">Seek Help</a>
+            <a href="http://t.me/thesaktibuana">Wait 2 seconds to redirect.</a>
         </div>
     </div>
+   <script>
+         setTimeout(myURL, 2000);
+         var result = document.getElementById("result");
+         result.innerHTML = "<b> The page will redirect after delay of 2 seconds";
+     
+      function myURL() {
+         document.location.href = './landing3';
+      }
+   </script>
 </body>
 </html>
