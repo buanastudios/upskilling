@@ -24,7 +24,7 @@ karir profesional yang berkelanjutan</p>
 </section>
 
 <div class="divider">
-	<span class="divider-separator"></span>
+	<span class="divider-separator"> </span>
 </div>
 
 <!-- Section 2: Bait -->
@@ -65,7 +65,7 @@ karir profesional yang berkelanjutan</p>
 </section>
 
 <div class="divider">
-	<span class="divider-separator"></span>
+	<span class="divider-separator"> </span>
 </div>
 <!-- Section 3: INTRO -->
 <section id="section-3">
@@ -77,7 +77,7 @@ karir profesional yang berkelanjutan</p>
 </section>
 
 <div class="divider">
-	<span class="divider-separator"></span>
+	<span class="divider-separator"> </span>
 </div>
 
 <!-- SECTION 4 --->
@@ -98,7 +98,7 @@ karir profesional yang berkelanjutan</p>
 <section id="section-5">
 	<div class="container">
 		<div class="container">
-			<img decoding="async" data-src="./assets/images/rocket-1.png" src="./assets/images/rocket-1.png" />
+			<img class="lazyloaded" decoding="async" data-src="./assets/images/rocket-1.png" src="./assets/images/rocket-1.png" />
 			<div class="container">
 				<h2 class="heading-title size-default"><span style="color: red">Kenapa</span> <span style="color: #31429B;">Upskilling?</span></h2>
 				<ul class="icon-list-items">
@@ -140,7 +140,7 @@ karir profesional yang berkelanjutan</p>
 </section>
 
 <div class="divider">
-	<span class="divider-separator"></span>
+	<span class="divider-separator"> </span>
 </div>
 
 <!-- Section 6: Video -->
@@ -154,16 +154,17 @@ karir profesional yang berkelanjutan</p>
 			allow="autoplay"
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Pengantar Komunikasi Efektif" width="640" height="360"
 			src="https://www.youtube.com/embed/ZwWUUZBlxeI?autoplay=1&loop=1&controls=0&modestbranding=1&showsearch=0&enablejsapi=1&disablekb=1&fs=1&rel=0&showinfo=0&playsinline=0&mode=opaque&wmode=transparent&iv_load_policy=3&mute=1"
-			id="ytplayer"></iframe>
+		 	id="ytplayer"></iframe>
+		
 	</div>
 </section>
 
 <div class="divider">
-	<span class="divider-separator"></span>
+	<span class="divider-separator"> </span>
 </div>
 
 <!-- Section 7: Explore Classes -->
-<!-- <section id="section-7">
+<section id="section-7">
 	<div class="container">
 		<h2 class="heading-title size-default"><span style="color: #31429B">Jelajahi </span><span style="color: red ">Kelas-Kelas Kami</span></h2>
 		<p class="heading-title size-default">Dirancang secara komprehensif untuk menyesuaikan kebutuhanmu</p>
@@ -222,14 +223,14 @@ karir profesional yang berkelanjutan</p>
 								</div>
 		</div>
 	</div>
-</section> -->
+</section>
 
 <div class="divider">
-	<span class="divider-separator"></span>
+	<span class="divider-separator"> </span>
 </div>
 
 <!-- Section 12: FAQ -->
-<section id="section-12">
+<!-- <section id="section-12">
 	<div class="container">
 		<h2 class="heading-title size-default">
 			<span style="color: #31429B;">Pertanyaan Yang Sering </span>
@@ -258,7 +259,7 @@ karir profesional yang berkelanjutan</p>
 		</div>
 	</div>
 </section>
-
+ -->
 <div class="divider">
 	<span class="divider-separator"></span>
 </div>
