@@ -1,5 +1,5 @@
 ---
-layout: landing3
+layout: landing50
 title: Upskilling &#8211; Kelas Manajer Millenials &#8211; How To be a Great Manager
 ---
 
@@ -155,8 +155,7 @@ karir profesional yang berkelanjutan</p>
 			allow="autoplay"
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" title="Pengantar Komunikasi Efektif" width="640" height="360"
 			src="https://www.youtube.com/embed/ZwWUUZBlxeI?autoplay=1&loop=1&controls=0&modestbranding=1&showsearch=0&enablejsapi=1&disablekb=1&fs=1&rel=0&showinfo=0&playsinline=0&mode=opaque&wmode=transparent&iv_load_policy=3&mute=1"
-		 	id="ytplayer"></iframe>
-		
+		 	id="ytplayer"></iframe>		
 	</div>
 </section>
 
@@ -320,156 +319,46 @@ karir profesional yang berkelanjutan</p>
 	<span class="divider-separator"> </span>
 </div> -->
 
-<section id="section-9">
+<!-- <section id="section-9" class="full-width">
 	<div class="container">
-		<div class="spacer"></div>
-		<div class="container">
-			<h2 class="heading-title size-default">Apa Pendapat Anggota<sup>2</sup> Kami</h2>
-		</div>
-		<div class="spacer"></div>
-		<div class="container slidebox">
-			<div class="boxes">
-				<div id="box-1" class="box">
-					<h3 class="slide-title">Muhammad</h3>
-					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
-					<div class="slide-rating">
-						<span class="rating rating-5-0">
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                </span>
-					</div>
-					<div class="slide-review">
-						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
-					</div>
-				</div>				
-				<div id="box-2" class="box">
-					<h3 class="slide-title">Muas</h3>
-					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
-					<div class="slide-rating">
-						<span class="rating rating-5-0">
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                </span>
-					</div>
-					<div class="slide-review">
-						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
-					</div>
-				</div>				
-				<div id="box-3" class="box">
-					<h3 class="slide-title">Fuadillah</h3>
-					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
-					<div class="slide-rating">
-						<span class="rating rating-5-0">
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                </span>
-					</div>
-					<div class="slide-review">
-						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
-					</div>
-				</div>
-				<div id="box-4" class="box">
-					<h3 class="slide-title">Muhammad Muas</h3>
-					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
-					<div class="slide-rating">
-						<span class="rating rating-5-0">
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                </span>
-					</div>
-					<div class="slide-review">
-						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
-					</div>
-				</div>				<div id="box-5" class="box">
-					<h3 class="slide-title">Muhammad</h3>
-					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
-					<div class="slide-rating">
-						<span class="rating rating-5-0">
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                </span>
-					</div>
-					<div class="slide-review">
-						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
-					</div>
-				</div>				
-				<div id="box-6" class="box">
-					<h3 class="slide-title">Muas</h3>
-					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
-					<div class="slide-rating">
-						<span class="rating rating-5-0">
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                </span>
-					</div>
-					<div class="slide-review">
-						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
-					</div>
-				</div>				
-				<div id="box-7" class="box">
-					<h3 class="slide-title">Fuadillah</h3>
-					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
-					<div class="slide-rating">
-						<span class="rating rating-5-0">
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                </span>
-					</div>
-					<div class="slide-review">
-						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
-					</div>
-				</div>
-				<div id="box-8" class="box">
-					<h3 class="slide-title">Muhammad Muas</h3>
-					<div class="slide-subtitle">Administrasi Invoice PT. Tirta Investama</div>
-					<div class="slide-rating">
-						<span class="rating rating-5-0">
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                    <span class="rating-item"><i class="icon-star" aria-hidden="true"></i></span>
-		                </span>
-					</div>
-					<div class="slide-review">
-						<p>Materinya bagus-bagus, jadi bisa berkomunikasi lebih baik lagi dengan atasan <br>dan bisa diaplikasikan di tempat kerja.</p>
-					</div>
-				</div>
-			</div>
-		</div>
+		<figure class="snip1139">
+		  <blockquote>Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.
+		    <div class="arrow"></div>
+		  </blockquote>
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample3.jpg" alt="sample3"/>
+		  <div class="author">
+		    <h5>Pelican Steve <span>- LittleThemes</span></h5>
+		  </div>
+		</figure>
+		<figure class="snip1139 hover">
+		  <blockquote>I don't need to compromise on my principles, because they don't have the slightest bearing on what happens to me anyway.
+		    <div class="arrow"></div>
+		  </blockquote>
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample47.jpg" alt="sample47"/>
+		  <div class="author">
+		    <h5>Max Conversion<span>- LittleThemes</span></h5>
+		  </div>
+		</figure>
+		<figure class="snip1139">
+		  <blockquote>That's the problem with nature, something's always stinging you or oozing mucous all over you. Let's go and watch TV.
+		    <div class="arrow"></div>
+		  </blockquote>
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample17.jpg" alt="sample17"/>
+		  <div class="author">
+		    <h5>Eleanor Faint<span>- LittleThemes</span></h5>
+		  </div>
+		</figure>
 	</div>
-</section>
+</section> -->
 
+<!-- <div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div> -->
 
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-
-<div class="divider">
+<!-- <div class="divider">
 	<span class="divider-separator"> </span>
-</div>
+</div> -->
 <!-- SECTION 10: BENEFIT -->
 <section id="section-10">
 	<div class="container">
@@ -551,43 +440,48 @@ karir profesional yang berkelanjutan</p>
 
 <section id="section-13">
 	<div class="container">
-		<p class="heading-title size-default">© 2025 upskillingbytrustco.id</p>
+		<p class="heading-title size-default">&copy; 2025 upskillingbytrustco.id</p>
 		<p class="heading-title size-default">Rebuild by http://buana.studio</p>
 	</div>
 </section>
 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js"></script>
+
 <script>
-	$(document).ready(function() {
+	$(document).ready(function () {
+	  $(".testimonial-slider").slick({
+	    autoplay: true,
+	    autoplaySpeed: 1000,
+	    speed: 600,
+	    draggable: true,
+	    infinite: true,
+	    slidesToShow: 3,
+	    slidesToScroll: 1,
+	    arrows: false,
+	    dots: false,
+	    responsive: [
+	      {
+	        breakpoint: 991,
+	        settings: {
+	          slidesToShow: 2,
+	          slidesToScroll: 1
+	        }
+	      },
+	      {
+	        breakpoint: 575,
+	        settings: {
+	          slidesToShow: 1,
+	          slidesToScroll: 1
+	        }
+	      }
+	    ]
+	  });
+	});
 
-            var owl = $("#owl-demo1");
-
-            owl.owlCarousel({
-				 loop:false,
-                 margin:10,
-                 nav:true,
-	             autoplay:false,
-                 dots:false,
-				 items: 3, //10 items above 1000px browser width
-                  responsiveClass:true,
-                responsive:{
-                0:{
-                items:1,
-                nav:false,
-                },
-               600:{
-               items:2,
-            nav:false,
-        },
-        1000:{
-            items:4,
-            nav:false,
-            loop:false,
-        }
-    }
-})
-
-                   });
+	
 </script>
+
 
 <script>
 	// Accordion.
@@ -620,7 +514,7 @@ karir profesional yang berkelanjutan</p>
 	// });
 
 </script>
-<script>
+<!-- <script>
 	// For autoplay and turn sound on the Intro Video.
     function unmuteVideo() {
         var player = new YT.Player('ytplayer', {
@@ -645,4 +539,4 @@ karir profesional yang berkelanjutan</p>
     tag.src = "https://www.youtube.com/iframe_api";
     var firstScriptTag = document.getElementsByTagName('script')[0];
     firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-</script>
+</script> -->

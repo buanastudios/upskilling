@@ -676,129 +676,89 @@ a.button {
 /*end of section 8*/
 
 /*start of section 9*/
-#section-9 {
-    flex-direction: column;
-/*    width: 100%;*/
-    height: 100%;
-    background-color: #314298;
+
+/* Full-width section */
+.full-widthx {
+    width: 100vw;
+    margin-left: calc(-50vw + 50%); /* Aligns with viewport */
+    padding: 40px;
+    background: #f4f4f4;
+    text-align: center;
 }
 
-#section-9 h2 {
-    color:white;
+.testimonial {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3d5a80;
+  color: #3d5a80;
 }
 
-#section-9 h3 {
-    color:#31429A
+.testimonial-slide {
+  padding: 40px 20px;
+}
+.testimonial_box-top {
+  background-color: #e0fbfc;
+  padding: 30px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: 5px 5px 20px rgba(152, 193, 217, 0.493);
+}
+.testimonial_box-icon {
+  padding: 10px 0;
+}
+.testimonial_box-icon i {
+  font-size: 25px;
+  color: #14213d;
+}
+.testimonial_box-text {
+  padding: 10px 0;
+}
+.testimonial_box-text p {
+  color: #293241;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 0;
+}
+.testimonial_box-img {
+  padding: 20px 0 10px;
+  display: flex;
+  justify-content: center;
+}
+.testimonial_box-img img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50px;
+  border: 2px solid #e5e5e5;
+}
+.testimonial_box-name {
+  padding-top: 10px;
+}
+.testimonial_box-name h4 {
+  font-size: 20px;
+  line-height: 25px;
+  color: #293241;
+  margin-bottom: 0;
+}
+.testimonial_box-job p {
+  color: #293241;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  line-height: 20px;
+  font-weight: 300;
+  margin-bottom: 0;
 }
 
+/*end of section 9*/
 
-        .slidebox {
-            display: flex;
-            overflow: hidden;
-            width: 50%;
-            max-width: 60%;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-/*            position: relative;*/
-            align-self: center;
-            justify-content: center;
-            justify-self: center;
-            justify-items: center;
-        }
-        .boxes {
-            display: flex;
-
-            width: calc(100% + 20px); /* Double the slides for seamless loop */
-            animation: scroll 4s infinite linear;
-        }
-        @keyframes scroll {
-            0% { transform: translateX(0); }
-            100% { transform: translateX(-50%); }
-        }
-
-        .box {
-            width: calc(25% - 20px); 
-            flex-shrink: 0;
-            padding: 20px;
-            background: #fff;
-            border-radius: 10px;
-            text-align: center;
-            margin-right: 20px;
-        }
-
-        .slide-title {
-            font-size: 1.5em;
-            font-weight: bold;
-        }
-        .slide-subtitle, .slide-review {
-            font-size: 1em;
-            margin-top: 10px;
-        }
-        .rating {
-            margin: 10px 0;
-        }
-
-#section-9 .box .slide-title{
-    font-size: 18px;
-    font-weight: 600;
-    color: #31429A;
-    padding-bottom: 6px;
-    margin: 0;
-}
-#section-9 .box .slide-subtitle{
-    padding-bottom: 5px;
-    font-size: 15px;
-    color: #6d7882;
-}
-
-#section-9 .box .slide-rating{
-    line-height: 1;
-    font-size: 14px;
-}
-
-#section-9 .box .slide-rating .rating{
-    display: flex;
-    font-size: 14px;
-}
-
-#section-9 .box .slide-rating .rating span{
-    margin-right: 2px;
-}
-
-    .rating .rating-item{
-        color: #e7e7e7;
-    }
-
-    .rating .rating-item i {
-        display: inline-flex;
-        font-family: 'element-pack' !important;
-        speak: never;
-        font-style: normal;
-        font-weight: normal;
-        font-variant: normal;
-        text-transform: none;
-        line-height: 1;
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-        position: relative
-    }
-
-    .rating .rating-item i:before {
-         content:'\ece0'; 
-    }
-
-    .rating[class*=" rating-0"] .rating-item:nth-child(1) i:after,.rating[class*=" rating-1"] .rating-item:nth-child(-n+1) i:after,.rating[class*=" rating-2"] .rating-item:nth-child(-n+2) i:after,.rating[class*=" rating-3"] .rating-item:nth-child(-n+3) i:after,.rating[class*=" rating-4"] .rating-item:nth-child(-n+4) i:after,.rating[class*=" rating-5"] .rating-item:nth-child(-n+5) i:after {
-        position: absolute;
-        content: '\e95b';
-        color: #FFCC00
-    }
-
-    .rating.rating-0-5 .rating-item:nth-child(1) i:after,.rating.rating-1-5 .rating-item:nth-child(2) i:after,.rating.rating-2-5 .rating-item:nth-child(3) i:after,.rating.rating-3-5 .rating-item:nth-child(4) i:after,.rating.rating-4-5 .rating-item:nth-child(5) i:after {
-        content: '\e95d';
-        color: #FFCC00;
-        position: absolute
-    }
-
+/*start of section 11*/
 #section-11 {
     width: 100%;
     height: 100%;

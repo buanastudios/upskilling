@@ -1,0 +1,18 @@
+{
+  "Hero": {
+    "title": "Learn Marketing the Smart Way",
+    "subtitle": "Master strategies in just weeks",
+    "image_url": "https://example.com/banner.jpg",
+    "button_text": "Enroll Now"
+  },
+  "Benefits": {
+    "benefit_1": "Proven strategies",
+    "benefit_2": "Industry expert insights"
+  },
+  "Episode": {
+    "ep_1_title": "Introduction to Digital Marketing",
+    "ep_1_link": "https://youtu.be/example1",
+    "ep_2_title": "Social Media Growth Hacks",
+    "ep_2_link": "https://youtu.be/example2"
+  }
+}
