@@ -1,5 +1,5 @@
 ---
-layout: landing40
+layout: landing60
 title: Upskilling &#8211; Kelas Manajer Millenials &#8211; How To be a Great Manager
 ---
 
@@ -154,7 +154,8 @@ karir profesional yang berkelanjutan</p>
 			allowfullscreen="1"
 			allow="autoplay"
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" title="Pengantar Komunikasi Efektif" width="640" height="360"
-			src="https://www.youtube.com/embed/ZwWUUZBlxeI?autoplay=1&loop=1&controls=0&modestbranding=1&showsearch=0&enablejsapi=1&disablekb=1&fs=1&rel=0&showinfo=0&playsinline=0&mode=opaque&wmode=transparent&iv_load_policy=3&mute=1"
+			src="https://www.youtube.com/embed/9BhXUoaPgu4
+9BhXUoaPgu4?autoplay=1&loop=1&controls=0&modestbranding=1&showsearch=0&enablejsapi=1&disablekb=1&fs=1&rel=0&showinfo=0&playsinline=0&mode=opaque&wmode=transparent&iv_load_policy=3&mute=1"
 		 	id="ytplayer"></iframe>	
 	</div>
 </section>
@@ -514,29 +515,29 @@ karir profesional yang berkelanjutan</p>
 	// });
 
 </script>
-<!-- <script>
+<script>
 	// For autoplay and turn sound on the Intro Video.
-    function unmuteVideo() {
-        var player = new YT.Player('ytplayer', {
-            events: {
-                'onReady': function(event) {
-                    // event.target.unMute(); // Unmute video when ready
-                }
-            }
-        });
-    }
+    // function unmuteVideo() {
+    //     var player = new YT.Player('ytplayer', {
+    //         events: {
+    //             'onReady': function(event) {
+    //                 event.target.unMute(); // Unmute video when ready
+    //             }
+    //         }
+    //     });
+    // }
 
-    document.addEventListener("click", function () {
-        unmuteVideo();
-    });
+    // document.addEventListener("click", function () {
+    //     unmuteVideo();
+    // });
 
         // Observer to check when video enters viewport
-    let observer = new IntersectionObserver(unmuteVideo, { threshold: 0.0 });
-    observer.observe(document.getElementById('ytplayer'));
+    // let observer = new IntersectionObserver(unmuteVideo, { threshold: 0.0 });
+    // observer.observe(document.getElementById('ytplayer'));
 
-    // Load YouTube API
-    var tag = document.createElement('script');
-    tag.src = "https://www.youtube.com/iframe_api";
-    var firstScriptTag = document.getElementsByTagName('script')[0];
-    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-</script> -->
+    // // Load YouTube API
+    // var tag = document.createElement('script');
+    // tag.src = "https://www.youtube.com/iframe_api";
+    // var firstScriptTag = document.getElementsByTagName('script')[0];
+    // firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+</script>
