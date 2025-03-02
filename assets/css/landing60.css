@@ -369,7 +369,11 @@ a.button {
 }
 
 #section-5 > .container > .container > img{
-    width: 100%;
+/*    width: 400px;*/
+    flex: 1 1 50%; 
+}
+
+#section-5 > .container > .container > .container{
     flex: 1 1 50%; 
 }
 
