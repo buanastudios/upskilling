@@ -360,8 +360,17 @@ a.button {
 /*END OF SECTION 4*/
 
 /*SECTION 5*/
-#section-5{
-/*    justify-content: flex-start;*/
+#section-5 > .container > .container{
+    display: flex;
+    flex-direction: row;
+    row-gap: 10px;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+#section-5 > .container > .container > img{
+    width: 100%;
+    flex: 1 1 50%; 
 }
 
 #section-5 p.heading-title {
@@ -377,7 +386,7 @@ a.button {
 /*BEGIN OF SECTION 6*/
 #section-6 {
     width: 100vw;
-    height: 100vh;
+    height: 100vh !important;
 }
 
 #section-6 > .container {
@@ -1016,7 +1025,9 @@ figure.snip1139 .author {
 /*END OF SECTION*/
 
 /*BEGIN SECTION 5*/
-
+    #section-5 > .container > .container > img{
+        flex: 1 1 100%;
+    }
 /*END OF SECTION 5*/
 
 /*BEGIN OF SECTION 6*/

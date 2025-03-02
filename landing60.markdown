@@ -152,10 +152,8 @@ karir profesional yang berkelanjutan</p>
 			class="video"
 			frameborder="0"
 			allowfullscreen="1"
-			allow="autoplay"
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" title="Pengantar Komunikasi Efektif" width="640" height="360"
-			src="https://www.youtube.com/embed/9BhXUoaPgu4
-9BhXUoaPgu4?autoplay=1&loop=1&controls=0&modestbranding=1&showsearch=0&enablejsapi=1&disablekb=1&fs=1&rel=0&showinfo=0&playsinline=0&mode=opaque&wmode=transparent&iv_load_policy=3&mute=1"
+			src="https://www.youtube.com/embed/9BhXUoaPgu4?autoplay=1&loop=1&controls=0&modestbranding=1&showsearch=0&enablejsapi=1&disablekb=1&fs=1&rel=0&showinfo=0&playsinline=0&mode=opaque&wmode=transparent&iv_load_policy=3&mute=1"
 		 	id="ytplayer"></iframe>	
 	</div>
 </section>
@@ -492,7 +490,7 @@ karir profesional yang berkelanjutan</p>
 	// Accordion.
 	// document.addEventListener("DOMContentLoaded", function () {
 	    const accordionItems = document.querySelectorAll(".accordion-item");
-	    console.log(accordionItems);
+	    // console.log(accordionItems);
 
 	    accordionItems.forEach(item => {
 	        const tabTitle = item.querySelector(".tab-title");
@@ -519,29 +517,68 @@ karir profesional yang berkelanjutan</p>
 	// });
 
 </script>
+<script src="https://www.youtube.com/iframe_api"></script>
 <script>
-	// For autoplay and turn sound on the Intro Video.
-    // function unmuteVideo() {
-    //     var player = new YT.Player('ytplayer', {
-    //         events: {
-    //             'onReady': function(event) {
-    //                 event.target.unMute(); // Unmute video when ready
-    //             }
-    //         }
-    //     });
-    // }
+  var player;
 
-    // document.addEventListener("click", function () {
-    //     unmuteVideo();
-    // });
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('ytplayer', {
+      height: '360',
+      width: '640',
+      videoId: 'YOUR_VIDEO_ID', // Replace with actual YouTube video ID
+      playerVars: {
+        autoplay: 1, // Auto-play enabled
+        mute: 0,     // Ensure sound is ON
+        controls: 1,  // Show controls
+        rel: 0,      // No related videos at the end
+      },
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
+      }
+    });
+  }
 
-        // Observer to check when video enters viewport
-    // let observer = new IntersectionObserver(unmuteVideo, { threshold: 0.0 });
-    // observer.observe(document.getElementById('ytplayer'));
+  function onPlayerReady(event) {
+    event.target.playVideo(); // Start playing immediately
+  }
 
+  function onPlayerStateChange(event) {
+    if (event.data === YT.PlayerState.ENDED) {
+      console.log("Video ended");
+    }
+  }
+</script>
+
+<script>
     // // Load YouTube API
     // var tag = document.createElement('script');
     // tag.src = "https://www.youtube.com/iframe_api";
     // var firstScriptTag = document.getElementsByTagName('script')[0];
     // firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+	// function onYouTubeIframeAPIReady() {
+	//   console.log('Yay, YT exists!', YT);
+	// }
+
+	// // For autoplay and turn sound on the Intro Video.
+    function unmuteVideo() {
+        var player = new YT.Player('ytplayer', {
+            events: {
+                'onReady': function(event) {
+                    event.target.unMute(); // Unmute video when ready
+                }
+            }
+        });
+    }
+
+    document.addEventListener("click", function () {
+        unmuteVideo();
+    });
+
+    //     Observer to check when video enters viewport
+    // let observer = new IntersectionObserver(unmuteVideo, { threshold: 0.0 });
+    // observer.observe(document.getElementById('ytplayer'));
+
+
 </script>
