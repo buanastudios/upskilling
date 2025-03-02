@@ -432,6 +432,10 @@ karir profesional yang berkelanjutan</p>
 		<div class="container">
 			<h2 class="heading-title size-default"><span style="color: #31429B;">Ready to Take the</span> <span style="color: red">Next Step?</span></h2>
 			<p class="heading-title size-default">Mulai perjalananmu dan dapatkan kunci menuju potensi tak terbatas!</p>
+			<div class="cta-2" id="cta-2">
+				<a class="button" href="https://utas.me/upskillingbytrustco"><span class="button-text">Beli Sekarang</span></a>
+				<a class="button" href="https://utas.me/upskillingbytrustco"><span class="button-text">Daftar via WA</span></a>
+			</div>
 		</div>
 	</div>
 </section>
