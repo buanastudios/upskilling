@@ -249,7 +249,7 @@ karir profesional yang berkelanjutan</p>
 					</noscript>
 				</figure>
 				<div class="image-box-content">
-					<h4 class="image-box-title">Gun Gun Saptari Hidayat, S.T.,M.B.A</h4>
+					<h4 class="image-box-title">Gun Gun Saptari Hidayat, S.T.,M.B.A.</h4>
 					<div class="image-box-description">
 						<p>• Senior Trainer TRUSTCO</p>
 						<p>• CEO dan Direktur di beberapa perusahaan</p>
@@ -265,11 +265,11 @@ karir profesional yang berkelanjutan</p>
 					</noscript>
 				</figure>
 				<div class="image-box-content">
-					<h4 class="image-box-title">Gun Gun Saptari Hidayat, S.T.,M.B.A</h4>
+					<h4 class="image-box-title">Dr. Wasmin Al Risyad, M.Pd.</h4>
 					<div class="image-box-description">
 						<p>• Senior Trainer TRUSTCO</p>
-						<p>• CEO dan Direktur di beberapa perusahaan</p>
-						<p>• Practitioner Neuro Linguistic Programming</p>
+						<p>• Master Hypnotherapy</p>
+						<p>• Master Coach Middle & Top Leader Perusahaan Nasional-Multinasional</p>
 					</div>
 				</div>
 			</div>
@@ -281,11 +281,11 @@ karir profesional yang berkelanjutan</p>
 					</noscript>
 				</figure>
 				<div class="image-box-content">
-					<h4 class="image-box-title">Gun Gun Saptari Hidayat, S.T.,M.B.A</h4>
+					<h4 class="image-box-title">Dr. Indra Kusumah, S.Psi.,M.Si.</h4>
 					<div class="image-box-description">
 						<p>• Senior Trainer TRUSTCO</p>
-							<p>• CEO dan Direktur di beberapa perusahaan</p>
-							<p>• Practitioner Neuro Linguistic Programming</p>
+						<p>• Consultant</p>
+						<p>• Book Authors</p>
 						</div>
 				</div>
 			</div>
@@ -297,11 +297,27 @@ karir profesional yang berkelanjutan</p>
 					</noscript>
 				</figure>
 				<div class="image-box-content">
-					<h4 class="image-box-title">Gun Gun Saptari Hidayat, S.T.,M.B.A</h4>
+					<h4 class="image-box-title">Dicky Fria Senjaya, S.Psi, CPC, CHRM.</h4>
+						<div class="image-box-description">
+							<p>• Trainer TRUSTCO</p>
+							<p>• Practitioner Points of You</p>
+							<p>• Coach & Human Capital Practitioner</p>
+						</div>					
+				</div>
+			</div>
+			<div id="card-5" class="container card">
+				<figure class="image-box-img">
+					<img loading="lazy" decoding="async" width="1080" height="1080" data-src="./assets/images/4.png" class="attachment-full size-full wp-image-522 lazyloaded" alt="" data-srcset="./assets/images/4.png 1080w, ./assets/images/4-300x300.png 300w, ./assets/images/2-1024x1024.png 1024w, ./assets/images/4-150x150.png 150w, ./assets/images/2-768x768.png 768w" data-sizes="(max-width: 1080px) 100vw, 1080px" src="./assets/images/4.png" style="--smush-placeholder-width: 1080px; --smush-placeholder-aspect-ratio: 1080/1080;" sizes="(max-width: 1080px) 100vw, 1080px" srcset="./assets/images/4.png 1080w, ./assets/images/2-300x300.png 300w, ./assets/images/4-1024x1024.png 1024w, ./assets/images/4-150x150.png 150w, ./assets/images/4-768x768.png 768w">
+					<noscript>
+						<img loading="lazy" decoding="async" width="1080" height="1080" src="./assets/images/4.png" class="attachment-full size-full wp-image-522" alt="" srcset="./assets/images/4.png 1080w, ./assets/images/4-300x300.png 300w, ./assets/images/2-1024x1024.png 1024w, ./assets/images/4-150x150.png 150w, ./assets/images/4-768x768.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+					</noscript>
+				</figure>
+				<div class="image-box-content">
+					<h4 class="image-box-title">Dedi Hermawan, S.Psi.,M.M.</h4>
 						<div class="image-box-description">
 							<p>• Senior Trainer TRUSTCO</p>
-							<p>• CEO dan Direktur di beberapa perusahaan</p>
-							<p>• Practitioner Neuro Linguistic Programming</p>
+							<p>• Direktur TRUSTCO Bandung</p>
+							<p>• Human Capital Practitioner</p>
 						</div>					
 				</div>
 			</div>
