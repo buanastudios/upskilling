@@ -223,6 +223,7 @@ a.button {
 
 /*end of bullet list items*/
 
+
 /*section-1*/
 #section-1,
 #section-2,
@@ -642,6 +643,7 @@ a.button {
     row-gap: 1em;
     text-align: left;
     line-height: 1em;
+    font-family: "Poppins", Sans-serif;
 }
 
 #section-8 p{
